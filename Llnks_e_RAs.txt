@@ -1,0 +1,8 @@
+Guilherme Almeida dos Santos 24317337-2
+Fernando Alexandre 24346855-2
+Miguel Lima 24294360-2
+Felipe Corrêa 24235016-2
+
+Atividade Alunos-Curso: https://github.com/felcorrea20/Atividade_Pratica_POO
+Atividade Biblioteca: https://github.com/felcorrea20/biblioteca_poo
+Atividade Ponto Eletrônico : https://github.com/f-alexandre96/sistema-ponto-eletronico
